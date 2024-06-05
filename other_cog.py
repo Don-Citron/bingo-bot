@@ -1384,6 +1384,7 @@ class Other_cog(
             1074083716961402940, # Transfem
             1214084942145912842, # Gay
             1214083260766883840, # Enby
+            1247903767186378794, # Queer, Vitron's requested role
         ]
 
         prune_ids = selectable + additional
